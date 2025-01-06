@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm Luna!</h1>
+<h1 align="center">👋 Hi, I'm Luna!</h1>
 
 ###
 
